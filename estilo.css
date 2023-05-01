@@ -1,0 +1,22 @@
+@charset "utf-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+img{
+    width: 100vh;
+}
+a{
+    display: block;
+    text-decoration: none;
+    background-color: brown;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    padding: 20px;
+    
+}
+a:hover{
+    background-color: red;
+}
