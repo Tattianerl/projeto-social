@@ -25,10 +25,10 @@ section#cel{
     top: 50%;  
     left: 50%;  
     transform: translate(-50%, -50%);    
-    width: 310px;
-    height: 610px;
+    width: 311px;
+    height: 600px;
     background-image: url(imagens/frame-iphone.png);
-    background-repeat: no-repeat top center;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 iframe#tela{
@@ -40,14 +40,14 @@ iframe#tela{
 }
 section#rede-social{
     text-align: right;
-    padding-right: 40px;
+    padding-right: 20px;
 }
 section#rede-social img{
  
     width: 50px;
     margin: 10px;
     border-radius: 50%;
-   box-sizing: border-box;
+    box-sizing: border-box;
 }
 section#rede-social img:hover{
     border: 2px solid rgba(150, 149, 149, 0.522);
